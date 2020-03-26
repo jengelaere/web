@@ -43,9 +43,9 @@ Des modules à la carte :
 
 Un module sur les publications reproductibles avec Rmarkdown est en cours de développement, et nous prévoyons également un module sur Shiny et le travail collaboratif.
 
-Chaque module est prévu pour être dispensé en présentiel sur 2 jours mais peut s'utiliser en autoapprentissage. Dans le contexte du confinement, nous travaillons à exernaliser les différents exercices de ces modules dans un package à part afin de rendre les stagiaires autonome sur la mise en pratique. 
+Chaque module est prévu pour être dispensé en présentiel sur 2 jours mais peut s'utiliser en autoapprentissage. Dans le contexte du confinement, nous travaillons à exernaliser les différents exercices de ces modules dans un package à part afin de rendre les stagiaires autonomes sur la mise en pratique. 
 
-Toute idée est la bienvenue ! Pour proposer des aménagements, merci d'ouvrir des issues sur le [repo github du parcours](https://github.com/MTES-MCT/parcours-r)
+Toute idée est la bienvenue ! Pour proposer des aménagements, merci d'ouvrir des issues sur le [repo github du parcours](https://github.com/MTES-MCT/parcours-r).
 
 Ces documents sont diffusés sous [licence ouverte](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf) et librement accessibles en HTML, PDF et EPUB à l'adresse suivante :
 
