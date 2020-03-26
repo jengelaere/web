@@ -12,7 +12,7 @@ type: "post"
 ---
 
 
-Le pôle ministériel du Ministère de la Transition écologique et solidaire et du Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales a mis en place depuis 2016 un groupe de référents R. L'objectif de ce collectif est d'accompagner la transition des agents du ministère vers R, afin de répondre aux besoins croissants de traitements et d'analyses de la donnée. Cela a pris la forme, notamment, d'un parcours modulaire de formation à R, dispensé via les centres de formation du pôle ministériel, mais dont les supports sont disponibles librement sur Internet.
+Le pôle ministériel du Ministère de la Transition écologique et solidaire et du Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales a mis en place depuis 2016 un groupe de référents R. L'objectif de ce collectif est d'accompagner la transition des agents du ministère vers R, afin de répondre aux besoins croissants de traitements et d'analyses de la donnée. Cela a pris la forme, notamment, d'un parcours modulaire de formation à R, dispensé via les centres de formation du pôle ministériel, mais dont les supports (en français !) sont disponibles librement sur Internet.
 
 
 ### Public visé
@@ -43,9 +43,9 @@ Des modules à la carte :
 
 Un module sur les publications reproductibles avec Rmarkdown est en cours de développement, et nous prévoyons également un module sur Shiny et le travail collaboratif.
 
-Chaque module est prévu pour être dispensé en présentiel sur 2 jours mais peut s'utiliser en autoapprentissage. Dans le contexte du confinement, nous travaillons à exernaliser les différents exercices de ces modules dans un package à part afin de rendre les stagiaires autonome sur la mise en pratique. 
+Chaque module est prévu pour être dispensé en présentiel sur 2 jours mais peut s'utiliser en autoapprentissage. Dans le contexte du confinement, nous travaillons à exernaliser les différents exercices de ces modules dans un package à part afin de rendre les stagiaires autonomes sur la mise en pratique. 
 
-Toute idée est la bienvenue ! Pour proposer des aménagements, merci d'ouvrir des issues sur le [repo github du parcours](https://github.com/MTES-MCT/parcours-r)
+Toute idée est la bienvenue ! Pour proposer des aménagements, merci d'ouvrir des issues sur le [repo github du parcours](https://github.com/MTES-MCT/parcours-r).
 
 Ces documents sont diffusés sous [licence ouverte](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf) et librement accessibles en HTML, PDF et EPUB à l'adresse suivante :
 
